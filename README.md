@@ -1,4 +1,4 @@
-## Hi, I'm Diego Gama, Software Engineer Java!
+## Hi, I'm Diego Gama, Experienced Senior Java Software Engineer with a demonstrated history of conceptual and implementational lead of technical projects. Skilled in high quality Java, testing, documentation, database architecture, orchestration and DevOps. Highly motivated of continuous learning for new techniques and technologies.
 
 <div align="center">
   <a href="https://github.com/diegogama">
