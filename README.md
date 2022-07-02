@@ -17,6 +17,7 @@
   <img align="center" alt="DG-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="DG-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="DG-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="DG-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
   <img align="right" alt="DG-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/6165929/176984217-aec8666f-363e-42ff-abdf-68c2a828c4b2.png">
 </div>
   
